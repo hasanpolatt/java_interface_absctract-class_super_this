@@ -1,0 +1,2 @@
+Ornek.soyutsınıf
+Ornek.soyutsinif
